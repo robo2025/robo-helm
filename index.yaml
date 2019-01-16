@@ -3,11 +3,11 @@ entries:
   hello-helm:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-01-16T15:06:07.574900862+08:00
+    created: 2019-01-16T15:53:14.991558438+08:00
     description: A Helm chart for Kubernetes
-    digest: ec4bccf73852063745dd6aa52010fbfe31b8a9e76131a998dc94e14998771a97
+    digest: 7879c3fbdbc684388c0aec574e8a0d30ac9dc64662730c5bb81653e34d1b33a8
     name: hello-helm
     urls:
-    - https://robo2025.github.io/robo-helm/hello-helm-1.0.0.tgz
+    - values.yaml/hello-helm-1.0.0.tgz
     version: 1.0.0
-generated: 2019-01-16T15:06:07.574330102+08:00
+generated: 2019-01-16T15:53:14.991257687+08:00
